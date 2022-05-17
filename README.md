@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lauro-almeida
 - 👀 I’m interested in web development and api development.
 - 🌱 I’m currently learning JavaScript, React, GraphQL and Node.js at Hiring Coders #3, a project powered by VTEX.
-- :green_book: I already have some knowlodge in Python, Django, MySQL and PostgreS.
+- :green_book: I already have some knowlodge in Python, Django, MySQL and Postgres.
 - 📫 You can reach me at https://www.linkedin.com/in/lauro-almeida
 
